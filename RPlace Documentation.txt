@@ -1,0 +1,8 @@
+This is a quick replace all script
+
+Copy the text in which you want to make replacements
+Run the scripts with the following keyword arguments:
+   <Replace what> ~ <Replace with>
+th text after the replalcements will be copied to the clipboard
+
+the commandline need not to be paused for this script

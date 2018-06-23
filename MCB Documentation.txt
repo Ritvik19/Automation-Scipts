@@ -1,0 +1,14 @@
+This Script is for a Multi Clip Board
+Copy any Text and save to it the multiclipboard by passing the commandline arguments:
+  save <key for accessig the clip>
+to access the clip pass the arguments the clip corresponding to the clip will be copied:
+  <key>
+to delete any clip use the arguments:
+  delt <key>
+to know all the clips in the multiclipboard a list of keys of all saved clips will be copied:
+  list
+to delete all the clips:
+  dall
+
+shevle is used to store all the data to change the path of the shelve in the script
+the commandline need not to be paused for this script

@@ -1,0 +1,3 @@
+This Script lets you search you online for some syntax
+just pass the query as the commandline arguments and you will be redie=rected to the syntaxdb website with yor query already being searched
+the commandline needs not to be paused for this script

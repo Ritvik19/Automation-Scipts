@@ -1,0 +1,10 @@
+This Script is for various pdf utilities which are:
+  merge cut watermark encrypt decrypt
+
+merge <source1> <source2> <destination>
+watermark <source> <marksrc> <destination>
+encrypt <source> <password> <destination>
+decrypt <source> <password> <destination>
+cut <source> <start>-<end> <destination>
+
+the commandline need not to be paused for this script

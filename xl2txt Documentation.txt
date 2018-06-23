@@ -1,0 +1,6 @@
+This script lets you to export an entire excel workbook to text files one for each worksheet
+the commanline arguments are as follows: 
+
+<source_file_path> <destination_folder>
+
+the commandline needs not to be paused fir this script
