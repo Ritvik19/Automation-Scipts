@@ -1,0 +1,4 @@
+Autotext is an amazing script it will automate the keyboard of your device to type some text for you
+It takes the text copied to the clipboard to do so...
+It starts writing the text with a 10 seconds delay..
+Beware while using this script as this will start typing anywhere and can lead to hazards..
