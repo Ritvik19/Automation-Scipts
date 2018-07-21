@@ -2,7 +2,7 @@ This script parses data directy fro the wikipedia
 The commandline terminal needs to paused for this script
 
 the commandline arguments are as follows
-<optional query>
+~ <optional query>
 	parses the entire wikipedia page for the requested query
 search <optional query> or Search <optional query>
 	parses a list if results for the requested page
