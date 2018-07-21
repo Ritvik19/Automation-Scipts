@@ -1,0 +1,12 @@
+This script parses data directy fro the wikipedia
+The commandline terminal needs to paused for this script
+
+the commandline arguments are as follows
+<optional query>
+	parses the entire wikipedia page for the requested query
+search <optional query> or Search <optional query>
+	parses a list if results for the requested page
+summary <optional query> or Summary <optional query>
+	parses the summary of the requested page
+
+note that the query arguments are optional as if they are not entioned the script will parse inforamtion about the text that is copied to the clip board
