@@ -1,5 +1,0 @@
-This script quickly creates cool wordclouds for you
-The commandline terminal need not to be paused for this script
-
-The commandline arguments are as follows:
-<width in pixels> <height in pixels> <background color> <optional max words default 200>

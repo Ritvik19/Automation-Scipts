@@ -1,5 +1,0 @@
-This Script is for quick dictionary
-It uses a json file "data.json" as its database
-so edit the path of the json file in the script
-
-just pass the word you want to search as the commandline argument

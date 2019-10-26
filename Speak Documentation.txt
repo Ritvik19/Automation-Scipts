@@ -1,4 +1,0 @@
-This module read out text data for you
-The commandline terminal needs to be paused for this script
-
-You can optionally pass the text to be read as the commandline aguments if not provived it will read the text copied to the clipboard

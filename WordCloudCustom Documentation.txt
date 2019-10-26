@@ -1,5 +1,0 @@
-This script quickly creates cool masked wordclouds for you
-The commandline terminal need not to be paused for this script
-
-The commandline arguments are as follows:
-<width in pixels> <height in pixels> <background color> <universal path of the masking image>

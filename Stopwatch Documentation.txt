@@ -1,3 +1,0 @@
-This Script is a quick stopwatch
-the commandline needs to be paused for this script
-just run the script the instruction for use are specified there as such
