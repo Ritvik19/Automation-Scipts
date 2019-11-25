@@ -1,5 +1,5 @@
-# Do_your_stuffs_with_Python
-Use Python to automate some of your dailystuffs
+# Automation Scripts
+Using Python to automate iterative stuffs
 
 This repository is a collection of python scripts that run using commandline as these take command line arguments as parameter to work upon...
 ___
